@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  claim-helm-charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-04T18:44:38.805698+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 5af38554d41168d114a79af18e97fa55aa7d4b3affd8d76737aaef2f7505ab4d
+    name: claim-helm-charts
+    type: application
+    urls:
+    - https://Yaswanth45.github.io/claim-helm-charts/claim-helm-charts-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-04T18:44:38.804571+05:30"
