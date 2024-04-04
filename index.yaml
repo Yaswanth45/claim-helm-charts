@@ -3,7 +3,17 @@ entries:
   claim-helm-charts:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-04T19:26:30.432238+05:30"
+    created: "2024-04-04T21:09:43.433192+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 894a5878db58d6b6795c00d1eab0825eb60528c1441b07f4315d3de570ba1dc4
+    name: claim-helm-charts
+    type: application
+    urls:
+    - https://Yaswanth45.github.io/claim-helm-charts/claim-helm-charts-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-04T21:09:43.432671+05:30"
     description: A Helm chart for Kubernetes
     digest: d9de5c944cd2cac1744830c32dbfc7417f37c3a5f6f6be8d65fff88fb30a9a4a
     name: claim-helm-charts
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://Yaswanth45.github.io/claim-helm-charts/claim-helm-charts-0.1.1.tgz
     version: 0.1.1
-generated: "2024-04-04T19:26:30.428651+05:30"
+generated: "2024-04-04T21:09:43.431577+05:30"
